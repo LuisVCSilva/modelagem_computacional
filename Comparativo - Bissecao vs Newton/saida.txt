@@ -1,0 +1,175 @@
+
+-------------------------
+
+Realizando o metodo da bissecao para a=1.000000, b=2.000000, tol=0.000010,N=10
+O método não convergiu em 10 iterações
+
+-------------------------
+
+Realizando o metodo da bissecao para a=1.000000, b=2.000000, tol=0.000010,N=100
+O método convergiu em 17 iterações.
+Raiz é = 1.365227
+
+-------------------------
+
+Realizando o metodo da bissecao para a=1.000000, b=2.000000, tol=0.000010,N=1000
+O método convergiu em 17 iterações.
+Raiz é = 1.365227
+
+-------------------------
+
+Realizando o metodo de Newton para p0=1.000000, tol=0.000010,N=10
+O método convergiu em 4 iterações.
+Raiz é = 1.365230
+
+-------------------------
+
+Realizando o metodo de Newton para p0=1.000000, tol=0.000010,N=100
+O método convergiu em 4 iterações.
+Raiz é = 1.365230
+
+-------------------------
+
+Realizando o metodo de Newton para p0=1.000000, tol=0.000010,N=1000
+O método convergiu em 4 iterações.
+Raiz é = 1.365230
+
+-------------------------
+
+Realizando o metodo da bissecao para a=1.000000, b=2.000000, tol=0.000000,N=10
+O método não convergiu em 10 iterações
+
+-------------------------
+
+Realizando o metodo da bissecao para a=1.000000, b=2.000000, tol=0.000000,N=100
+O método convergiu em 34 iterações.
+Raiz é = 1.365230
+
+-------------------------
+
+Realizando o metodo da bissecao para a=1.000000, b=2.000000, tol=0.000000,N=1000
+O método convergiu em 34 iterações.
+Raiz é = 1.365230
+
+-------------------------
+
+Realizando o metodo de Newton para p0=1.000000, tol=0.000000,N=10
+O método convergiu em 5 iterações.
+Raiz é = 1.365230
+
+-------------------------
+
+Realizando o metodo de Newton para p0=1.000000, tol=0.000000,N=100
+O método convergiu em 5 iterações.
+Raiz é = 1.365230
+
+-------------------------
+
+Realizando o metodo de Newton para p0=1.000000, tol=0.000000,N=1000
+O método convergiu em 5 iterações.
+Raiz é = 1.365230
+
+-------------------------
+
+Realizando o metodo da bissecao para a=1.000000, b=2.000000, tol=0.000000,N=10
+O método não convergiu em 10 iterações
+
+-------------------------
+
+Realizando o metodo da bissecao para a=1.000000, b=2.000000, tol=0.000000,N=100
+O método convergiu em 49 iterações.
+Raiz é = 1.365230
+
+-------------------------
+
+Realizando o metodo da bissecao para a=1.000000, b=2.000000, tol=0.000000,N=1000
+O método convergiu em 49 iterações.
+Raiz é = 1.365230
+
+-------------------------
+
+Realizando o metodo de Newton para p0=1.000000, tol=0.000000,N=10
+O método convergiu em 6 iterações.
+Raiz é = 1.365230
+
+-------------------------
+
+Realizando o metodo de Newton para p0=1.000000, tol=0.000000,N=100
+O método convergiu em 6 iterações.
+Raiz é = 1.365230
+
+-------------------------
+
+Realizando o metodo de Newton para p0=1.000000, tol=0.000000,N=1000
+O método convergiu em 6 iterações.
+Raiz é = 1.365230
+
+-------------------------
+
+Realizando o metodo da bissecao para a=1.000000, b=2.000000, tol=0.000000,N=10
+O método não convergiu em 10 iterações
+
+-------------------------
+
+Realizando o metodo da bissecao para a=1.000000, b=2.000000, tol=0.000000,N=100
+O método convergiu em 49 iterações.
+Raiz é = 1.365230
+
+-------------------------
+
+Realizando o metodo da bissecao para a=1.000000, b=2.000000, tol=0.000000,N=1000
+O método convergiu em 49 iterações.
+Raiz é = 1.365230
+
+-------------------------
+
+Realizando o metodo de Newton para p0=1.000000, tol=0.000000,N=10
+O método convergiu em 6 iterações.
+Raiz é = 1.365230
+
+-------------------------
+
+Realizando o metodo de Newton para p0=1.000000, tol=0.000000,N=100
+O método convergiu em 6 iterações.
+Raiz é = 1.365230
+
+-------------------------
+
+Realizando o metodo de Newton para p0=1.000000, tol=0.000000,N=1000
+O método convergiu em 6 iterações.
+Raiz é = 1.365230
+
+-------------------------
+
+Realizando o metodo da bissecao para a=1.000000, b=2.000000, tol=0.000000,N=10
+O método não convergiu em 10 iterações
+
+-------------------------
+
+Realizando o metodo da bissecao para a=1.000000, b=2.000000, tol=0.000000,N=100
+O método convergiu em 49 iterações.
+Raiz é = 1.365230
+
+-------------------------
+
+Realizando o metodo da bissecao para a=1.000000, b=2.000000, tol=0.000000,N=1000
+O método convergiu em 49 iterações.
+Raiz é = 1.365230
+
+-------------------------
+
+Realizando o metodo de Newton para p0=1.000000, tol=0.000000,N=10
+O método convergiu em 6 iterações.
+Raiz é = 1.365230
+
+-------------------------
+
+Realizando o metodo de Newton para p0=1.000000, tol=0.000000,N=100
+O método convergiu em 6 iterações.
+Raiz é = 1.365230
+
+-------------------------
+
+Realizando o metodo de Newton para p0=1.000000, tol=0.000000,N=1000
+O método convergiu em 6 iterações.
+Raiz é = 1.365230
